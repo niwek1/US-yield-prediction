@@ -46,9 +46,9 @@ The prediction model uses an ensemble of XGBoost and Random Forest algorithms, t
 ## Performance Metrics
 
 - Training RMSE: 0.0413
-- Test RMSE: 0.1208
+- Test RMSE: 0.0508
 - Training Directional Accuracy: 64.95%
-- Test Directional Accuracy: 48.33%
+- Test Directional Accuracy: 61.33%
 
 ## Disclaimer
 
