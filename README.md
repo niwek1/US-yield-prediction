@@ -6,7 +6,6 @@ This application predicts the 10-Year US Treasury Yield using machine learning m
 
 - Real-time data fetching from FRED (Federal Reserve Economic Data)
 - Current market data visualization
-- Next-day yield predictions
 - Model performance metrics
 - Interactive user interface
 
